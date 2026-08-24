@@ -1,6 +1,6 @@
 <a href="https://gitascii.com">
   <img
-    src="https://gitascii.com/api/Syntax-error2?v=1787582476895"
+    src="https://gitascii.com/api/Syntax-error2?v=1787582989279"
     alt="GitAscii Widget"
     width="100%"
   />
